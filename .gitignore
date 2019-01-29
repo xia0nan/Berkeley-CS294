@@ -106,6 +106,7 @@ venv.bak/
 
 ###### mac
 # General
+.DS_Store
 .AppleDouble
 .LSOverride
 
